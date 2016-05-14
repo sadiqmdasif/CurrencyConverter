@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Currency Converter</string>
+    <string name="usdBdt">USD-BDT</string>
+    <string name="bdtUsd">BDT-USD</string>
+    <string name="lblUSD">USD</string>
+    <string name="lblBDT">BDT</string>
+    <string name="buttonConvert">CONVERT</string>
+</resources>
